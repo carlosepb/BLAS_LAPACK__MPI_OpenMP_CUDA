@@ -1,11 +1,7 @@
 # BLAS_LAPACK__MPI_OpenMP_CUDA
-Repositorio de ejercicios resueltos .
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
-  <h3 align="center">Navegación a travéS del sistema solar</h3>
-
-  <p align="center">
+<p>
     Repositorio de ejercicios resueltos en programación concurrente utilizando las librerías.
 
 * BLAS
